@@ -1,0 +1,8 @@
+model\courier\CourierCredentials.class
+client\OrderClient.class
+client\CourierClient.class
+model\courier\Courier.class
+model\orders\Order.class
+client\ScooterRestClient.class
+utills\CourierDataGenerator.class
+model\courier\CreateCourierResponse.class
